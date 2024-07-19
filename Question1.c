@@ -14,7 +14,8 @@ int main()
 }
 
 
-int minimizeSet(int divisor1, int divisor2, int uniqueCnt1, int uniqueCnt2) {
+int minimizeSet(int divisor1, int divisor2, int uniqueCnt1, int uniqueCnt2) 
+{
     int arr1[10], arr2[10], c, index=0;
 
     for(int i=0;i<=uniqueCnt1;i++)
@@ -28,13 +29,10 @@ int minimizeSet(int divisor1, int divisor2, int uniqueCnt1, int uniqueCnt2) {
             index++;
             }
         }
-        
-        
     }
-
     for(index=0;index<=uniqueCnt1;index++)
     {
         printf(" %d ",arr1[index]);
     }
-return 0;
+    return 0;
 }
