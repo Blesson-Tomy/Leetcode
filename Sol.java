@@ -1,10 +1,13 @@
-//class Solution {
- //   public int sum(int num1, int num2) {
-        
- //       return num1+num2;
- //  }
-//}
+// I used this program to run on the online leetcode compiler for submission.
+class Solution {
+   public int sum(int num1, int num2) 
+   {     
+       return num1+num2;
+    }
+}
 
+
+/* I used this program to run on my local machine.
 
 public class Sol{
     public static void main(String args[]) {
@@ -14,3 +17,4 @@ public class Sol{
         System.out.println("The sum of two numbers is: " + sum);
     }
 }
+    */
