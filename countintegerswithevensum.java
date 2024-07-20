@@ -1,8 +1,35 @@
 //Question: Count integers with even digit sum.
 
 //Submission on leetcode:
+class Solution {
+    int count=0;
+   public int countEven(int num) {
+       int sum=0;
+      
+       for(int i=1;i<=num;i++)
+       {   int temp=i;
+           sum=0;
+           int rem=0;
+           while(temp!=0)
+           {   
+               rem=temp%10;
+               sum=sum+rem;
+               temp=temp/10;
+           }
+
+           if(sum%2==0)
+           {   
+               count++;
+           }
+       }
+       System.out.print(count);
+       return count;
+   }
+   
+}
 
 // Testing my logic on local machine.
+/* 
 public class countintegerswithevensum {
     
     public static void main(String args[]) {
@@ -29,4 +56,4 @@ public class countintegerswithevensum {
         
         System.out.println(count);
     }
-}
+}*/
