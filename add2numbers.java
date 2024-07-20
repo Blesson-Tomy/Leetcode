@@ -1,3 +1,5 @@
+//Question: Add 2 numbers and return their sum. 
+
 // I used this program to run on the online leetcode compiler for submission.
 class Solution {
    public int sum(int num1, int num2) 
@@ -7,9 +9,9 @@ class Solution {
 }
 
 
-/* I used this program to run on my local machine.
+/* I used this program to run on my local machine. I do this to test the logic of the program that I am writing.
 
-public class Sol{
+public class add2numbers{
     public static void main(String args[]) {
         int num1 = 5;
         int num2 = 10;

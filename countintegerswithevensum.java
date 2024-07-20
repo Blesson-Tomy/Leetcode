@@ -1,3 +1,8 @@
+//Question: Count integers with even digit sum.
+
+//Submission on leetcode:
+
+// Testing my logic on local machine.
 public class countintegerswithevensum {
     public static void main(String args[]) {
         int n = 30;

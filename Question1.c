@@ -1,3 +1,5 @@
+//A question for a competition I attempted.
+
 #include <stdio.h>
 
 int minimizeSet(int, int ,int ,int);
