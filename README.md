@@ -6,3 +6,5 @@ I will be uploading the various leetcode problems and my solutions for them here
 2) [Count Integers With Even Sum](countintegerswithevensum.java)
 3) [Palindrome or Not](palindrome.java)
 4) [Number of Steps to reduce a number to Zero](Noofsteps.java)
+5) [TwoSum](twosum.java)
+6) [ReverseInteger](ReverseInteger.java)
