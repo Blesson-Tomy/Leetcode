@@ -8,3 +8,4 @@ I will be uploading the various leetcode problems and my solutions for them here
 4) [Number of Steps to reduce a number to Zero](Noofsteps.java)
 5) [TwoSum](twosum.java)
 6) [ReverseInteger](ReverseInteger.java)
+7) [searchinsertposition](searchinsertposition.java)
