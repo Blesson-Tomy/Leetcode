@@ -1,8 +1,8 @@
 class MedianofTwoSortedArrays {
     public static void main(String[] args) {
 
-        int[] nums1 = {1,3};
-        int[] nums2 = {2};
+        int[] nums1 = {-1,3};
+        int[] nums2 = {-2};
         int len1 = nums1.length;
         int len2 = nums2.length;
         int len = len1+len2;
