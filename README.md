@@ -27,4 +27,6 @@ I will be uploading the various leetcode problems and my solutions for them here
 23) [Richest Customer Wealth](RichestCustomerWealth.java)
 24) [Build Array From Permutation](BuildArrayFromPermutation.java)
 25) [How Many Numbers Are Smaller Than the Current Number](HowManyNumbersAreSmallerThantheCurrentNumber.java)
-26 [Concatenation of an Array](ConcatenationofanArray.java)
+26) [Concatenation of an Array](ConcatenationofanArray.java)
+27) [Number of Employees Who Met the Target](NumberofEmployeesWhoMetthetarget.java)
+
