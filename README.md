@@ -29,4 +29,11 @@ I will be uploading the various leetcode problems and my solutions for them here
 25) [How Many Numbers Are Smaller Than the Current Number](HowManyNumbersAreSmallerThantheCurrentNumber.java)
 26) [Concatenation of an Array](ConcatenationofanArray.java)
 27) [Number of Employees Who Met the Target](NumberofEmployeesWhoMetthetarget.java)
-
+28) [Running Sum of 1d Array](RunningSumof1dArray.java)  
+29) [Minimum Average of Smallest and Largest Elements](MinimumAverageofSmallestandLargestElements.java) 
+30) [Final Value of Variable After Performing Operations](FinalValueofVariableAfterPerformingOperations.java)
+31) [Find Minimum Operations to Make All Elements Divisible by Three](FindMinimumOperationstoMakeAllElementsDivisiblebyThree.java)
+32) [Check if two String Arrays are equivalent](CheckiftwoStringArraysareequivalent.java)
+33) [Minimum Operations to Exceed Threshold Value I](MinimumOperationstoExceedThresholdValueI.java)
+34) [Number of Senior Citizens](NumberofSeniorCitizens.java)
+35) [Difference Between Element Sum and Digit Sum of an Array](DifferenceBetweenElementSumandDigitSumofanArray.java)
