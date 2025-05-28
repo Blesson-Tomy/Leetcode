@@ -39,3 +39,5 @@ I will be uploading the various leetcode problems and my solutions for them here
 35) [Difference Between Element Sum and Digit Sum of an Array](DifferenceBetweenElementSumandDigitSumofanArray.java)
 36) [Minimum Number Game](MinimumNumberGame.java)
 37) [Find if Digit Game can be Won](FindifDigitGamecanbeWon.java)
+38) [Find the First Palindromic String in the Array](FindtheFirstPalindromicStringintheArray.java)
+39) [Truncate Sentence](TruncateSentence.java)
