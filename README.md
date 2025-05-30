@@ -41,3 +41,14 @@ I will be uploading the various leetcode problems and my solutions for them here
 37) [Find if Digit Game can be Won](FindifDigitGamecanbeWon.java)
 38) [Find the First Palindromic String in the Array](FindtheFirstPalindromicStringintheArray.java)
 39) [Truncate Sentence](TruncateSentence.java)
+40) [Shuffle String](ShuffleString.java)
+
+41) [Find the Highest Altitude](FindtheHighestAltitude.java) 25 May G:01/06
+42) [Sort Array by Parity](SortArrayByParity.java) 26 May G:1/06
+43) [Squares of a Sorted Array](SquaresofaSortedArray.java) 27 May G:2/06
+44) [Find Numbers with Even Number of Digits](FindNumberswithEvenNumberofDigits.java) 28 May G:3/06
+45) [Plus One](PlusOne.java)
+46) [Merge Sorted Array](MergeSortedArray.java)
+47) [Best Time to Buy and Sell Stock](BestTimetoBuyandSellStock.java)
+48) [Move Zeros](MoveZeros.java)
+49) [Contains Duplicate II](ContainsDuplicateII.java)
