@@ -44,3 +44,4 @@ I will be uploading the various leetcode problems and my solutions for them here
 40) [Shuffle String](ShuffleString.java)
 41) [Find the Highest Altitude](FindtheHighestAltitude.java)
 42) [Sort Array by Parity](SortArrayByParity.java)
+43) [Squares of a Sorted Array](SquaresofaSortedArray.java)
