@@ -45,3 +45,5 @@ I will be uploading the various leetcode problems and my solutions for them here
 41) [Find the Highest Altitude](FindtheHighestAltitude.java)
 42) [Sort Array by Parity](SortArrayByParity.java)
 43) [Squares of a Sorted Array](SquaresofaSortedArray.java)
+44) [Plus One](PlusOne.java)
+45) [Find Numbers with Even Number of Digits](FindNumberswithEvenNumberofDigits.java)
