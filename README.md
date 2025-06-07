@@ -1,7 +1,7 @@
 ### LEETCODE
 I will be uploading the various leetcode problems and my solutions for them here. I hope to do 1 question everyday but it will depend on how much time I can spare every day. When programming, I test my logic on my local machine before simplyifing the program for leetcode submission.
 
-## Questions Submitted
+## Data Structure Questions Submitted
 1) [Add 2 Numbers](add2integers.java)
 2) [Count Integers With Even Sum](countintegerswithevensum.java)
 3) [Palindrome or Not](palindrome.java)
@@ -47,3 +47,6 @@ I will be uploading the various leetcode problems and my solutions for them here
 43) [Squares of a Sorted Array](SquaresofaSortedArray.java)
 44) [Plus One](PlusOne.java)
 45) [Find Numbers with Even Number of Digits](FindNumberswithEvenNumberofDigits.java)
+46) [Merge Sorted Array](MergeSortedArray.java)
+47) [Best Time to Buy and Sell Stock](BestTimetoBuyandSellStock.java)
+48) [Move Zeros](MoveZeros.java)
