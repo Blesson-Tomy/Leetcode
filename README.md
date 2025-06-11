@@ -50,3 +50,7 @@ I will be uploading the various leetcode problems and my solutions for them here
 46) [Merge Sorted Array](MergeSortedArray.java)
 47) [Best Time to Buy and Sell Stock](BestTimetoBuyandSellStock.java)
 48) [Move Zeros](MoveZeros.java)
+49) [Max Consecutive Ones](MaxConsecutiveOnes.java)
+50) [Contains Duplicate II](ContainsDuplicateII.java)
+51) [Binary Search](BinarySearch.java) 
+52) [Fizz Buss](FizzBuzz.java)
