@@ -54,3 +54,5 @@ I will be uploading the various leetcode problems and my solutions for them here
 50) [Contains Duplicate II](ContainsDuplicateII.java)
 51) [Binary Search](BinarySearch.java) 
 52) [Fizz Buss](FizzBuzz.java)
+53) [Valid Paranthesis](ValidParanthesis.java)
+
