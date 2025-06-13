@@ -51,8 +51,9 @@ I will be uploading the various leetcode problems and my solutions for them here
 47) [Best Time to Buy and Sell Stock](BestTimetoBuyandSellStock.java)
 48) [Move Zeros](MoveZeros.java)
 49) [Max Consecutive Ones](MaxConsecutiveOnes.java)
-50) [Contains Duplicate II](ContainsDuplicateII.java)
-51) [Binary Search](BinarySearch.java) 
-52) [Fizz Buss](FizzBuzz.java)
-53) [Valid Paranthesis](ValidParanthesis.java)
+50) [Binary Search](BinarySearch.java) 
+51) [Fizz Buss](FizzBuzz.java)
+52) [Valid Paranthesis](ValidParanthesis.java)
+53) [Length of Last Word](LengthofLastWord.java)
+
 
