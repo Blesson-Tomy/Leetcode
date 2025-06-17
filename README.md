@@ -59,3 +59,7 @@ I will be uploading the various leetcode problems and my solutions for them here
 55) [Longest Common Prefix](LongestCommonPrefix.java)
 56) [Roman to Integer](RomantoInteger.java)
 
+
+
+## SQL Questions Submitted
+1) [Employees Earning More than their Managers](EmployeesEarningMorethantheirManagers.sql)
