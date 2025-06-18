@@ -63,3 +63,16 @@ I will be uploading the various leetcode problems and my solutions for them here
 
 ## SQL Questions Submitted
 1) [Employees Earning More than their Managers](EmployeesEarningMorethantheirManagers.sql)
+
+
+
+2) [Combine Two Tables](Combinetwotables.sql)
+3) [Duplicate Emails](Duplicateemails.sql)
+4) [Employee Bonus](EmployeeBonus.sql)
+5) [Game Play Analysis I](GamePlayAnalysisI.sql)
+6) [Rising Temperature](RisingTemperature.sql)
+7) [Delete Duplicate Emails](DeleteDuplicateEmails.sql)
+8) [Customers Who Never Order](Customerswhoneverorder.sql)
+
+
+## 57) [Find the index of the first Occurance in a string](FindtheindexofthefirstOccuranceinastring.java)
