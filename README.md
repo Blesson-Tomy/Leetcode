@@ -67,3 +67,4 @@ I will be uploading the various leetcode problems and my solutions for them here
 3) [Duplicate Emails](Duplicateemails.sql)
 4) [Employee Bonus](EmployeeBonus.sql)
 5) [Game Play Analysis I](GamePlayAnalysisI.sql)
+6) [Rising Temperature](RisingTemperature.sql)
