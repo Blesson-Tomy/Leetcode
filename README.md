@@ -72,3 +72,5 @@ I will be uploading the various leetcode problems and my solutions for them here
 5) [Game Play Analysis I](GamePlayAnalysisI.sql)
 6) [Rising Temperature](RisingTemperature.sql)
 7) [Customers Who Never Order](customerswhoneverorder.sql)
+8) [Big Countries](igcountries.sql)
+9) [Find Customer Referee](FindCustomerReferee.sql)
