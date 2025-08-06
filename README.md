@@ -75,3 +75,4 @@ I will be uploading the various leetcode problems and my solutions for them here
 8) [Big Countries](igcountries.sql)
 9) [Find Customer Referee](FindCustomerReferee.sql)
 10) [Customer Placing the Largest Number of Orders](CustomerPlacingtheLargestNumberofOrders.sql)
+11) [Classes With at Least 5 Students](ClassesWithatLeast5Students.sql)
