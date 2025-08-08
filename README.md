@@ -77,3 +77,4 @@ I will be uploading the various leetcode problems and my solutions for them here
 10) [Customer Placing the Largest Number of Orders](CustomerPlacingtheLargestNumberofOrders.sql)
 11) [Classes With at Least 5 Students](ClassesWithatLeast5Students.sql)
 12) [Not Boring Movies](NotBoringMovies.sql)
+13) [Swap Salary](SwapSalary.sql)
