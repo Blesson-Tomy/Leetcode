@@ -79,3 +79,4 @@ I will be uploading the various leetcode problems and my solutions for them here
 12) [Not Boring Movies](NotBoringMovies.sql)
 13) [Swap Salary](SwapSalary.sql)
 14) [Product Analysis I](ProductAnalysisI.sql)
+15) [Actors and Directors Who Cooperated at least 3 times](ActorsandDirectorsWhoCooperatedatleast3times.sql)
