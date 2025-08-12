@@ -61,6 +61,7 @@ I will be uploading the various leetcode problems and my solutions for them here
 57) [Valid Anagram](ValidAnagram.java)
 58) [Word Pattern](WordPattern.java)
 59) [ContainsDuplicateII](ContainsDuplicateII.java)
+60) [Reverse String](ReverseString.java)
 
 
 
