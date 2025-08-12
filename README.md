@@ -81,3 +81,4 @@ I will be uploading the various leetcode problems and my solutions for them here
 14) [Product Analysis I](ProductAnalysisI.sql)
 15) [Actors and Directors Who Cooperated at least 3 times](ActorsandDirectorsWhoCooperatedatleast3times.sql)
 16) [Biggest Single Number](BiggestSingleNumber.sql)
+17) [Article Views I](ArticleViews1.sql)
