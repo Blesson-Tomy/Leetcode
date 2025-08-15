@@ -63,6 +63,7 @@ I will be uploading the various leetcode problems and my solutions for them here
 59) [ContainsDuplicateII](ContainsDuplicateII.java)
 60) [Reverse String](ReverseString.java)
 61) [Jewels and Stones](JewelsandStones.java)
+62) [Power of Four](PowerofFour.java)
 
 
 
