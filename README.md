@@ -64,6 +64,7 @@ I will be uploading the various leetcode problems and my solutions for them here
 60) [Reverse String](ReverseString.java)
 61) [Jewels and Stones](JewelsandStones.java)
 62) [Power of Four](PowerofFour.java)
+63) [Maximum 69 Number](Maximum69number.sql)
 
 
 
