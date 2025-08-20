@@ -67,6 +67,7 @@ I will be uploading the various leetcode problems and my solutions for them here
 63) [Maximum 69 Number](Maximum69number.java)
 64) [Power of Three](PowerofThree.java)
 65) [Keyboard Row](KeyboardRow.java)
+66) [Defanging an IP Address](DefanginganIPAddress.java)
 
 
 
@@ -88,3 +89,4 @@ I will be uploading the various leetcode problems and my solutions for them here
 15) [Actors and Directors Who Cooperated at least 3 times](ActorsandDirectorsWhoCooperatedatleast3times.sql)
 16) [Biggest Single Number](BiggestSingleNumber.sql)
 17) [Article Views I](ArticleViews1.sql)
+18) [Number of Unique Subjects Taught by Each Teacher](NumberofUniqueSubjectsTaughtbyEachTeacher.sql)
