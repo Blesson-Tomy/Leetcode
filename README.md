@@ -90,4 +90,5 @@ I will be uploading the various leetcode problems and my solutions for them here
 16) [Biggest Single Number](BiggestSingleNumber.sql)
 17) [Article Views I](ArticleViews1.sql)
 18) [Number of Unique Subjects Taught by Each Teacher](NumberofUniqueSubjectsTaughtbyEachTeacher.sql)
-19) [Tweet Length](TweetLength.sql)
+19) [Invalid Tweets](Invalidtweets.sql)
+20) [Recyclable Low and Fat Products](RecyclableLowandFatproducts.sql)
