@@ -69,6 +69,7 @@ I will be uploading the various leetcode problems and my solutions for them here
 65) [Keyboard Row](KeyboardRow.java)
 66) [Defanging an IP Address](DefanginganIPAddress.java)
 67) [Find Closest Person](Findclosestperson.java)
+68) [Three Consequtive Odds](Threeconsequtiveodds.java)
 
 
 
