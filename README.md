@@ -70,6 +70,7 @@ I will be uploading the various leetcode problems and my solutions for them here
 66) [Defanging an IP Address](DefanginganIPAddress.java)
 67) [Find Closest Person](Findclosestperson.java)
 68) [Three Consequtive Odds](Threeconsequtiveodds.java)
+69) [Reverse the Vowels of a String](NumberofSeniorCitizens.java)
 
 
 
