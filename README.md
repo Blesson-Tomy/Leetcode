@@ -73,6 +73,7 @@ I will be uploading the various leetcode problems and my solutions for them here
 69) [Reverse the Vowels of a String](NumberofSeniorCitizens.java)
 70) [Intersection of 2 Arrays](intersectionof2arrays.java)
 71) [Ransom Note](RansomNote.java)
+71) [Add Binary](AddBinary.java)
 
 
 ## SQL Questions Submitted
