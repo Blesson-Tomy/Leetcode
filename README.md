@@ -74,6 +74,7 @@ I will be uploading the various leetcode problems and my solutions for them here
 70) [Intersection of 2 Arrays](intersectionof2arrays.java)
 71) [Ransom Note](RansomNote.java)
 71) [Add Binary](AddBinary.java)
+72) [practice](practice.java)
 
 
 ## SQL Questions Submitted
