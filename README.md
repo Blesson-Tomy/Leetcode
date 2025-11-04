@@ -76,6 +76,7 @@ I will be uploading the various leetcode problems and my solutions for them here
 71) [Add Binary](AddBinary.java)
 72) [practice](practice.java)
 73) [Check if N and its Double Exist](checkifNanditsdoubleexists.java)
+74) [Circular Sentence](circularsentence.java)
 
 
 ## SQL Questions Submitted
