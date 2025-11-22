@@ -77,6 +77,8 @@ I will be uploading the various leetcode problems and my solutions for them here
 72) [practice](practice.java)
 73) [Check if N and its Double Exist](checkifNanditsdoubleexists.java)
 74) [Circular Sentence](circularsentence.java)
+75) [Find the Difference](Findthedifference.java)
+76) [Minimum number of operations to make all elements divisible by 3](minimumnumberofoperationstomakeallelementsdivisibleby3.java)
 
 
 ## SQL Questions Submitted
