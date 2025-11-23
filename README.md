@@ -79,6 +79,7 @@ I will be uploading the various leetcode problems and my solutions for them here
 74) [Circular Sentence](circularsentence.java)
 75) [Find the Difference](Findthedifference.java)
 76) [Minimum number of operations to make all elements divisible by 3](minimumnumberofoperationstomakeallelementsdivisibleby3.java)
+77) [Find all numbers disappeared in an Array](Findallnumbersdisappearedinanarray.java)
 
 
 ## SQL Questions Submitted
