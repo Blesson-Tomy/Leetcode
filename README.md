@@ -82,6 +82,7 @@ I will be uploading the various leetcode problems and my solutions for them here
 77) [Find all numbers disappeared in an Array](Findallnumbersdisappearedinanarray.java)
 78) [Find All Duplicates in An Array](Findallduplicatesinanarray.java)
 79) [Smallest Integer Divisible by K](SmallestIntegerDivisiblebyK.java)
+80) [Keep Multiplying Found Values by Two](KeepMultiplyingFoundValuesbyTwo.java)
 
 
 ## SQL Questions Submitted
