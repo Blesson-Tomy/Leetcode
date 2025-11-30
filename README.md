@@ -83,6 +83,8 @@ I will be uploading the various leetcode problems and my solutions for them here
 78) [Find All Duplicates in An Array](Findallduplicatesinanarray.java)
 79) [Smallest Integer Divisible by K](SmallestIntegerDivisiblebyK.java)
 80) [Keep Multiplying Found Values by Two](KeepMultiplyingFoundValuesbyTwo.java)
+81) [Check If All 1's Are at Least Length K Places Away](CheckIfAll1'sAreatLeastLengthKPlacesAway.java)
+82) [Minimum Operations to Make Array Sum Divisible by K](MinimumOperationstoMakeArraySumDivisiblebyK.java)
 
 
 ## SQL Questions Submitted
