@@ -85,6 +85,7 @@ I will be uploading the various leetcode problems and my solutions for them here
 80) [Keep Multiplying Found Values by Two](KeepMultiplyingFoundValuesbyTwo.java)
 81) [Check If All 1's Are at Least Length K Places Away](CheckIfAll1'sAreatLeastLengthKPlacesAway.java)
 82) [Minimum Operations to Make Array Sum Divisible by K](MinimumOperationstoMakeArraySumDivisiblebyK.java)
+83) [Minimum Operations to Transform String](MinimumOperationstoTransformString.java)
 
 
 ## SQL Questions Submitted
