@@ -86,7 +86,8 @@ I will be uploading the various leetcode problems and my solutions for them here
 81) [Check If All 1's Are at Least Length K Places Away](CheckIfAll1'sAreatLeastLengthKPlacesAway.java)
 82) [Minimum Operations to Make Array Sum Divisible by K](MinimumOperationstoMakeArraySumDivisiblebyK.java)
 83) [Minimum Operations to Transform String](MinimumOperationstoTransformString.java)
-
+84) [To Lower Case](ToLowerCase.java)
+85) [Number of Changing Keys](NumberofChangingKeys.java)
 
 ## SQL Questions Submitted
 1) [Employees Earning More than their Managers](EmployeesEarningMorethantheirManagers.sql)
