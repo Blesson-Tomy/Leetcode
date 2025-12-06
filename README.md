@@ -88,6 +88,8 @@ I will be uploading the various leetcode problems and my solutions for them here
 83) [Minimum Operations to Transform String](MinimumOperationstoTransformString.java)
 84) [To Lower Case](ToLowerCase.java)
 85) [Number of Changing Keys](NumberofChangingKeys.java)
+86) [Add Digits](adddigits.java)
+87) [XOR Operation in an Array](XOROperationinanArray.java)
 
 ## SQL Questions Submitted
 1) [Employees Earning More than their Managers](EmployeesEarningMorethantheirManagers.sql)
