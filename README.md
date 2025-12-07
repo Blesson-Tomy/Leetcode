@@ -90,7 +90,8 @@ I will be uploading the various leetcode problems and my solutions for them here
 85) [Number of Changing Keys](NumberofChangingKeys.java)
 86) [Add Digits](adddigits.java)
 87) [XOR Operation in an Array](XOROperationinanArray.java)
-58) [Sum Multiples](summultiples.java)
+88) [Sum Multiples](summultiples.java)
+89) [Find the Maximum Achievable Number](FindtheMaximumAchievableNumber.java)
 
 ## SQL Questions Submitted
 1) [Employees Earning More than their Managers](EmployeesEarningMorethantheirManagers.sql)
