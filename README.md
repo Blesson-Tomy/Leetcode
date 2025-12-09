@@ -93,6 +93,7 @@ I will be uploading the various leetcode problems and my solutions for them here
 88) [Sum Multiples](summultiples.java)
 89) [Find the Maximum Achievable Number](FindtheMaximumAchievableNumber.java)
 90) [Robot Return to Origin](RobotReturntoOrigin.java)
+91) [Count Odd Numbers in an Interval Range](CountOddNumbersinanIntervalRange.java)
 
 ## SQL Questions Submitted
 1) [Employees Earning More than their Managers](EmployeesEarningMorethantheirManagers.sql)
