@@ -95,6 +95,7 @@ I will be uploading the various leetcode problems and my solutions for them here
 90) [Robot Return to Origin](RobotReturntoOrigin.java)
 91) [Count Odd Numbers in an Interval Range](CountOddNumbersinanIntervalRange.java)
 92) [Count Square Some Triples](countsquaresometriples.java)
+93) [Valid Word](ValidWord.java)
 
 ## SQL Questions Submitted
 1) [Employees Earning More than their Managers](EmployeesEarningMorethantheirManagers.sql)
