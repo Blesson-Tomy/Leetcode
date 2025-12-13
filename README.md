@@ -121,3 +121,4 @@ I will be uploading the various leetcode problems and my solutions for them here
 19) [Invalid Tweets](Invalidtweets.sql)
 20) [Recyclable Low and Fat Products](RecyclableLowandFatproducts.sql)
 21) [Project Employees I](ProjectEmployeesI.sql)
+22) [Second Highest Salary](SecondHighestSalary.sql)
