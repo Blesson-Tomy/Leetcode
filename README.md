@@ -122,3 +122,4 @@ I will be uploading the various leetcode problems and my solutions for them here
 20) [Recyclable Low and Fat Products](RecyclableLowandFatproducts.sql)
 21) [Project Employees I](ProjectEmployeesI.sql)
 22) [Second Highest Salary](SecondHighestSalary.sql)
+23) [Calculate Special Bonus](Calculatespecialbonus.sql)
