@@ -99,6 +99,7 @@ I will be uploading the various leetcode problems and my solutions for them here
 94) [Range Sum of BST](RangeSumofBST.java)
 95) [First Unique Character In a String](FirstUniqueCharacterInaString.java)
 96) [Binary Tree Inorder Traversal](BinaryTreeInorderTraversal.java)
+97) [Guess Number Higher or Lower](GuessNumberHigherorLower.java)
 
 ## SQL Questions Submitted
 1) [Employees Earning More than their Managers](EmployeesEarningMorethantheirManagers.sql)
