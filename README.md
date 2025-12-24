@@ -100,6 +100,8 @@ I will be uploading the various leetcode problems and my solutions for them here
 95) [First Unique Character In a String](FirstUniqueCharacterInaString.java)
 96) [Binary Tree Inorder Traversal](BinaryTreeInorderTraversal.java)
 97) [Guess Number Higher or Lower](GuessNumberHigherorLower.java)
+98) [Count the digits that divide a number](countthedigitsthatdevideanumber.java)
+99) [Subtract the Product and Sum of Digits of an Integer](SubtracttheProductandSumofdigitsofanInteger.java)
 
 ## SQL Questions Submitted
 1) [Employees Earning More than their Managers](EmployeesEarningMorethantheirManagers.sql)
