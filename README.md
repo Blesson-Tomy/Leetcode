@@ -103,6 +103,7 @@ I will be uploading the various leetcode problems and my solutions for them here
 98) [Count the digits that divide a number](countthedigitsthatdevideanumber.java)
 99) [Subtract the Product and Sum of Digits of an Integer](SubtracttheProductandSumofdigitsofanInteger.java)
 100) [Sign of the product of an array](Signoftheproductofanarray.java)
+101) [Baseball Game](BaseballGame.java)
 
 ## SQL Questions Submitted
 1) [Employees Earning More than their Managers](EmployeesEarningMorethantheirManagers.sql)
