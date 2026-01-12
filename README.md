@@ -104,6 +104,7 @@ I will be uploading the various leetcode problems and my solutions for them here
 99) [Subtract the Product and Sum of Digits of an Integer](SubtracttheProductandSumofdigitsofanInteger.java)
 100) [Sign of the product of an array](Signoftheproductofanarray.java)
 101) [Baseball Game](BaseballGame.java)
+102) [Score of a String](ScoreofaString.java)
 
 ## SQL Questions Submitted
 1) [Employees Earning More than their Managers](EmployeesEarningMorethantheirManagers.sql)
