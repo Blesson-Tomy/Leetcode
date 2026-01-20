@@ -106,6 +106,7 @@ I will be uploading the various leetcode problems and my solutions for them here
 101) [Baseball Game](BaseballGame.java)
 102) [Score of a String](ScoreofaString.java)
 103) [Product of Array Except Self](ProductofArrayExceptSelf.java)
+104) [FindPivotIndex](findpivotindex.java)
 
 ## SQL Questions Submitted
 1) [Employees Earning More than their Managers](EmployeesEarningMorethantheirManagers.sql)
